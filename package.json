@@ -1,10 +1,10 @@
 {
-  "name": "search-files-cli",
+  "name": "search-files-bko",
   "version": "1.0.0",
   "description": "Exemplo de CLI para procurar arquivos em uma pasta",
   "preferGlobal": true,
   "bin": {
-    "search-files": "./bin/search-files-cli"
+    "search-files": "./bin/search-files-bko"
   },
   "files": [
     "./bin"

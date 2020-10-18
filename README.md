@@ -13,7 +13,7 @@ O comando `search-files` vai estar disponível no terminal. Você pode usar o co
 Neste exemplo, listaria todos os arquivos com a extensão `.json`.
 
 ## Editando o comando
-Você pode editar livremente o arquivo `bin/search-files-cli` para mudar o comportamento do comando sem precisar rodar o comando `npm link` novamente. Qualquer alteração feita nesse arquivo já irá refletir no comando `search-files`.
+Você pode editar livremente o arquivo `bin/search-files-bko` para mudar o comportamento do comando sem precisar rodar o comando `npm link` novamente. Qualquer alteração feita nesse arquivo já irá refletir no comando `search-files`.
 
 
 ## Observações
